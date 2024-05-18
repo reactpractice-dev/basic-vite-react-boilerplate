@@ -1,5 +1,7 @@
+import RandomQuote from "./RandomQuote";
+
 function App() {
-  return <div>Hello React + Vite</div>
+  return <RandomQuote />;
 }
 
-export default App
+export default App;
